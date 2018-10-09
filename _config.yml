@@ -42,3 +42,19 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Podcast details
+podcast_url: http://www.roiadnb.com/nighty-night
+podcast_album_art: /assets/base/nighty-night.jpg
+podcast_title: Nighty Night
+podcast_owner: RO/A
+podcast_email: mail@roiadnb.com
+podcast_category: Music
+podcast_subcategory_one: 
+podcast_subcategory_two: 
+podcast_explicit: "yes"
+podcast_author: RO/A
+podcast_description: The greatest selection of drum and bass tracks hand picked by RO/A and his guests.
+podcast_summary: Welcome to Nighty Night, hosted by RO/A. Every week RO/A and his guests shell out one of the finest drum and bass tracks out. Enjoy! Sharing is caring!
+podcast_subtitle: The greatest selection of drum and bass tracks hand picked by RO/A and his guests.
