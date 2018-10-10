@@ -19,3 +19,7 @@ podcast_file_size: 144 MB
 podcast_duration: "01:02:28"
 podcast_length: 151008766
 ---
+
+Season 2 of Nighty Night is here. This one starts with some deep vibes and after that Elementrix comes in with a chilling liquid drum and bass guest mix.
+
+Enjoy!
