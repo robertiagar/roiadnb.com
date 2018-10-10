@@ -14,7 +14,7 @@ tags:
 - liquid dnb
 permalink: /S02E01/
 image: /assets/base/nighty-night.jpg
-podcast_link: http://www.roiadnb.com/music/S02E01.mp3
+podcast_link: https://s3.eu-central-1.amazonaws.com/nighty-night/S02E01.mp3
 podcast_file_size: 144 MB
 podcast_duration: "01:02:28"
 podcast_length: 151008766
