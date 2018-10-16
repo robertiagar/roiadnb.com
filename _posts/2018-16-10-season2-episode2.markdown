@@ -1,7 +1,7 @@
 ---
 published: false
 layout: none
-date: {}
+date: 2018-10-16T00:00:00.000Z
 categories: podcast
 tags:
   - deep
