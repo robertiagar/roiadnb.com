@@ -16,6 +16,6 @@ podcast_file_size: 136.7 MB
 podcast_duration: '00:59:17'
 podcast_length: 143379835
 ---
-Episode 2 of Nighty Night. I start with some deep dnb and then my good friend Omix will continue the trend shelling out bangers after bangers. 
+Episode 2 of Nighty Night. I start with some deep dnb and then my good friend Omix will continue the trend shelling out bangers after bangers.
 
 Enjoy!
