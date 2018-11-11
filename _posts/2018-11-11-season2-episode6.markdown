@@ -15,7 +15,7 @@ podcast_link: 'https://s3.eu-central-1.amazonaws.com/nighty-night/S02E06.mp3'
 podcast_file_size: 137.7 MB
 podcast_duration: '00:59:43'
 podcast_length: 144404907
-published: false
+published: true
 ---
 Episode 6 of Nighty Night Season 2. This time I'm proud to announce that Invadhertz have the steering wheel for the guest mix. It's massive!
 
