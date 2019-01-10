@@ -1,6 +1,6 @@
 ---
 layout: none
-date: 2018-12-09T00:00:00.000Z
+date: 2018-12-30T00:00:00.000Z
 categories: podcast
 title: S02E13
 tags:
