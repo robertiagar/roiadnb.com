@@ -19,6 +19,6 @@ published: true
 ---
 Episode 16 of Nighty Night Season 2. Special thanks to fellow JawBreaker Crew Member Hellx for creating the intro to the show. 
 
-This episode is a bit special. Thanks to MethLab Recordings for lifting the radio show embargo on their Nemesi EP from Exept. You can hear to forthcoming tracks scattered throughout the mix.
+This episode is a bit special. Thanks to MethLab Recordings for lifting the radio show embargo on their Nemesi EP from Exept. You can hear the forthcoming tracks scattered throughout the mix.
 
 Enjoy!
