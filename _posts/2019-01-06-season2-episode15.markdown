@@ -18,5 +18,3 @@ podcast_length: 144226183
 published: true
 ---
 Episode 15 of Nighty Night Season 2. Enjoy 1 hour of great deep and liquid drum and bass.
-
-Enjoy!
