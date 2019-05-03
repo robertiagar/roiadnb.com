@@ -1,6 +1,6 @@
 ---
 layout: none
-date: 2019-04-07T00:00:00.000Z
+date: 2019-04-21T00:00:00.000Z
 categories: podcast
 title: S02E29
 tags:
