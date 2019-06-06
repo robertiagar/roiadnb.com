@@ -9,9 +9,9 @@ tags:
   - deep drum and bass
   - dnb
   - deep dnb
-permalink: /S02E33/
+permalink: /S02E34/
 image: /assets/base/nighty-night.jpg
-podcast_link: 'https://s3.eu-central-1.amazonaws.com/nighty-night/S02E33.mp3'
+podcast_link: 'https://s3.eu-central-1.amazonaws.com/nighty-night/S02E34.mp3'
 podcast_file_size: 138.4 MB
 podcast_duration: '01:00:00'
 podcast_length: 145073595
