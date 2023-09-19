@@ -27,10 +27,9 @@ export default function Home2() {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/2PUgFC9oViY?si=X3oakOOj7_04ICfc"
+              src="https://www.youtube.com/embed/3xg5mw_z0K0?si=IGMsyHXwCVYB8w_I"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              className="aspect-video rounded-lg w-full h-full shadow-2xl"
               allowFullScreen
             ></iframe>
           </div>
