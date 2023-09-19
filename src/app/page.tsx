@@ -5,7 +5,7 @@ export default function Home2() {
   return (
     <main>
       <div className="w-full h-screen flex items-center justify-center bg-[url('/assets/background.jpg')] bg-cover bg-center">
-        <article className="flex flex-col gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl">
+        <article className="flex flex-col items-center justify-center gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl">
           <header>
             <Image
               src="/assets/logo-white.png"
