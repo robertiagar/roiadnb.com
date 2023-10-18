@@ -6,7 +6,7 @@ export default function Home2() {
   return (
     <main>
       <div className="w-full h-screen flex items-center justify-center bg-[url('/assets/background.jpg')] bg-cover bg-center">
-        <article className="flex flex-col items-center justify-center gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl text-slate-100">
+        <article className="flex flex-col items-center justify-center gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl text-slate-100 m-2">
           <header>
             <Image
               src="/assets/logo-white.png"
@@ -15,7 +15,7 @@ export default function Home2() {
               alt="RO/A Logo"
               className="px-2 aspect-auto"
             />
-            <div className="flex flex-col items-center">
+            <div className="flex flex-col items-center text-center">
               <h2 className="text-uppercase text-3xl">
                 SITE UNDER CONSTRUCTION
               </h2>
@@ -26,7 +26,7 @@ export default function Home2() {
           </header>
           <div className="p-6 rounded-lg">
             <iframe
-              className="rounded-lg aspect-video h-56 w-full"
+              className="rounded-lg aspect-video lg:h-96 h-3/4 w-full"
               src="https://www.youtube.com/embed/5fFuERBzOXE?si=EpYZz0jv5iYFBmDB"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
