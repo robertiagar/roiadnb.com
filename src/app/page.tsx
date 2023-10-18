@@ -1,11 +1,12 @@
 import Image from "next/image";
 import Link from "./components/Link";
+import { Facebook, Instagram, Youtube } from "lucide-react";
 
 export default function Home2() {
   return (
     <main>
       <div className="w-full h-screen flex items-center justify-center bg-[url('/assets/background.jpg')] bg-cover bg-center">
-        <article className="flex flex-col items-center justify-center gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl">
+        <article className="flex flex-col items-center justify-center gap-4 backdrop-blur-lg p-6 shadow-lg rounded-2xl text-slate-100">
           <header>
             <Image
               src="/assets/logo-white.png"
@@ -23,20 +24,32 @@ export default function Home2() {
               </p>
             </div>
           </header>
-          <div className="p-6 rounded-lg backdrop-blur-lg">
+          <div className="p-6 rounded-lg">
             <iframe
+              className="rounded-lg"
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/3xg5mw_z0K0?si=IGMsyHXwCVYB8w_I"
+              src="https://www.youtube.com/embed/5fFuERBzOXE?si=EpYZz0jv5iYFBmDB"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowFullScreen
             ></iframe>
           </div>
-          <footer className="flex flex-col items-center justify-center gap-x-4">
-            <Link title="facebook" href="https://facebook.com/roiadnb" />
-            <Link title="instagram" href="https://instagram.com/roiadnb" />
-            <Link title="youtube" href="https://youtube.com/@roiadnb" />
+          <footer className="flex flex-row items-center justify-center gap-x-4">
+            <Link
+              content={<Facebook absoluteStrokeWidth />}
+              title="facebook"
+              href="https://facebook.com/roiadnb"
+            />
+            <Link
+              content={<Instagram />}
+              title="instagram"
+              href="https://instagram.com/roiadnb"
+            />
+            <Link
+              content={<Youtube />}
+              title="youtube"
+              href="https://youtube.com/@roiadnb"
+            />
           </footer>
         </article>
       </div>
