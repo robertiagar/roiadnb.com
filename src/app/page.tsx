@@ -26,9 +26,7 @@ export default function Home2() {
           </header>
           <div className="p-6 rounded-lg">
             <iframe
-              className="rounded-lg"
-              width="560"
-              height="315"
+              className="rounded-lg aspect-video h-56 w-full"
               src="https://www.youtube.com/embed/5fFuERBzOXE?si=EpYZz0jv5iYFBmDB"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
