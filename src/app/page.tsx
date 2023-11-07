@@ -27,10 +27,10 @@ export default function Home2() {
           <div className="p-6 rounded-lg">
             <iframe
               className="rounded-lg aspect-video lg:h-96 h-3/4 w-full"
-              src="https://www.youtube.com/embed/5fFuERBzOXE?si=EpYZz0jv5iYFBmDB"
+              src="https://www.youtube.com/embed/mW2l57Ih3Oc?si=RFxOzLI6v10Dvog9" 
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            ></iframe>
+              ></iframe>
           </div>
           <footer className="flex flex-row items-center justify-center gap-x-4">
             <Link
